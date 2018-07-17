@@ -56,7 +56,7 @@
 
 `Download Zip`或者 `git clone`
 ``` shell
-	git clone https://github.com/iamycx/Spring-learning.git
+	git clone https://github.com/lyhq/seckill.git
 ```
 ### 导入到IDE  
 这里因为是使用`IDEA`创建的项目,所以使用`IDEA`直接打开是很方便的,提前是你要配置好`maven`的相关配置,以及项目`JDK`版本,
